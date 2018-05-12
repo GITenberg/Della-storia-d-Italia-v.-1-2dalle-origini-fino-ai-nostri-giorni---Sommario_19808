@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8896
     wikipedia: http://it.wikipedia.org/wiki/Cesare_Balbo
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19808#Della-storia-d-Italia-v.-1-2dalle-origini-fino-ai-nostri-giorni---Sommario
 gutenberg_bookshelf: IT Storia
 gutenberg_issued: '2006-11-14'
 gutenberg_type: Text
