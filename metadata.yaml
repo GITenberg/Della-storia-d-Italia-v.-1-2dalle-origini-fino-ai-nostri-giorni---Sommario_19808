@@ -1,0 +1,28 @@
+_repo: Della-storia-d-Italia-v.-1-2dalle-origini-fino-ai-nostri-giorni---Sommario_19808
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Balbo, Cesare, conte
+    birthdate: 1789
+    deathdate: 1853
+    gutenberg_agent_id: '8896'
+    url: http://www.gutenberg.org/2009/agents/8896
+    wikipedia: http://it.wikipedia.org/wiki/Cesare_Balbo
+description: ''
+gutenberg_bookshelf: IT Storia
+gutenberg_issued: '2006-11-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19808'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italy -- History'
+- !lcc 'DG'
+title: Della storia d'Italia dalle origini fino ai nostri giorni, sommario. v. 1
+url: http://www.gutenberg.org/ebooks/19808
